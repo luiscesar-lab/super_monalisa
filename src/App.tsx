@@ -116,7 +116,7 @@ function App() {
                 {/* Central Label */}
                 <div className="absolute bottom-6 left-1/2 transform -translate-x-1/2 text-center pointer-events-none">
                   <div className="text-cyan-400 font-orbitron font-bold text-lg">
-                    James
+                    Mosalisa
                   </div>
                   <div className="text-cyan-300/70 text-xs mt-1">
                     AI Voice Assistant
